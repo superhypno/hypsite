@@ -1,0 +1,7 @@
+# ПРЕДПРОСМОТР: сайт закрыт от поисковиков до подключения домена.
+# После подключения замените всё содержимое на:
+# User-agent: *
+# Allow: /
+# Sitemap: https://vladhypno.com/sitemap.xml
+User-agent: *
+Disallow: /
